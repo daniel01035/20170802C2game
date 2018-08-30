@@ -1,0 +1,8 @@
+﻿html, body{
+	background-color: rgb(255,204,102);
+}
+
+@font-face {
+font-family: 'myfont';
+src: url('dffnp7.otf') format('truetype');
+}
